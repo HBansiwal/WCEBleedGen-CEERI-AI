@@ -1,0 +1,12 @@
+train: "/home/himanshukumar/YOLOv7-Pytorch-Segmentation/yolov7/bleeding_yolov7_dataset/train/"
+val: "/home/himanshukumar/YOLOv7-Pytorch-Segmentation/yolov7/bleeding_yolov7_dataset/val/"
+
+
+# number of classes
+nc: 2
+
+# class names
+names: ['Bleeding', 'Non-Bleeding']
+
+
+
